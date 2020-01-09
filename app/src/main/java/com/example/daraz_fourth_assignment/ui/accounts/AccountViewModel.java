@@ -1,4 +1,6 @@
 package com.example.daraz_fourth_assignment.ui.accounts;
 
-public class AccountViewModel {
+import androidx.lifecycle.ViewModel;
+
+public class AccountViewModel extends ViewModel {
 }
