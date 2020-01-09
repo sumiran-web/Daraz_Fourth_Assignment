@@ -15,6 +15,7 @@ import com.example.daraz_fourth_assignment.R;
  * A simple {@link Fragment} subclass.
  */
 public class AccountFragment extends Fragment {
+    private AccountViewModel accountViewModel;
 
 
     public AccountFragment() {
