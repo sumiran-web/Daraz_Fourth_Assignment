@@ -10,7 +10,7 @@ public class BaseAPI {
 
         if (retrofit == null){
             retrofit = new Retrofit.Builder()
-                    .baseUrl("http://www.piyushp.com.np/sport_fanatic/api/member/")
+                    .baseUrl("http://10.0.2.2:3000/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build();
         }
