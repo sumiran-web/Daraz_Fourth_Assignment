@@ -7,6 +7,8 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import io.paperdb.Paper;
+
 public class HomeActivity extends AppCompatActivity
 {
     private Button LogoutBtn;
